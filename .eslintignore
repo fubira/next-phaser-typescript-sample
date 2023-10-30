@@ -1,0 +1,7 @@
+node_modules
+dist
+.next
+.cache
+next.config.js
+
+src/types.d.ts

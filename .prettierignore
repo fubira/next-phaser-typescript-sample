@@ -1,0 +1,6 @@
+.next/
+.github/
+.vercel
+coverage
+node_modules
+__snapshots__

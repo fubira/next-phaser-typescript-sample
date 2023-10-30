@@ -1,0 +1,27 @@
+<snapshot>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/_next/static/css/app/layout.css" data-precedence="next_static/css/app/layout.css">
+    <link rel="preload" as="script" fetchpriority="low" href="/_next/static/chunks/webpack.js">
+    <title>Next/Phaser Typescript</title>
+    <link rel="author" href="https://github.com/fubira/next-phaser-typescipt">
+    <meta name="author" content="fubira">
+    <meta property="og:site_name" content="Next/Phaser Typescript">
+    <meta property="og:image" content="http://localhost:3900/images/logo.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="http://localhost:3900/images/logo.png">
+    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="stylesheet" href="/assets/fonts/kiniro-ss.css" media="all">
+  </head>
+
+  <body>
+    <main>
+      <div class="Toastify"></div>
+      <div>
+        <div class="version">next-phaser-typescript v${version}-#${revision}</div>
+      </div>
+    </main><next-route-announcer></next-route-announcer><canvas width="960" height="960"></canvas>
+  </body>
+</snapshot>

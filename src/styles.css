@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  background-color: black;
+  overflow-y: hidden;
+}
+
+.version {
+  color: lightgray;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  font-size: 12px;
+  font-family: monospace;
+  margin: 8px;
+}
